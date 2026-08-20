@@ -1,0 +1,17 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# Environment variables
+.env
+.env.*
+
+# Uploaded files
+uploads/
+
+# Node
+node_modules/
+
+# Build
+dist/
